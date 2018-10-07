@@ -12,8 +12,8 @@ adopt-info: ghost-desktop
 grade: stable
 confinement: strict
 
-architectures:
-  - build-on: amd64
+#architectures:
+#  - build-on: amd64
 
 parts:
   ghost-desktop:
